@@ -1,6 +1,6 @@
 # Digital-Image-Analysis
 This repository contains 3 assignments of DIA :- <br /><br />
-**Assignment 1 : Simultaneous Contrast Experiment**<br />
+##Assignment 1 : Simultaneous Contrast Experiment
 Created an image with foreground square and background. And then changing the intensity of the background to observe the change in the contrast.<br /><br />
 
 **Assignment 2 : Color Quantization and Color Transfer**<br />
